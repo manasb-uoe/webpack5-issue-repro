@@ -1,0 +1,19 @@
+{
+  "name": "webpack5-issue-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasb-uoe/webpack5-issue-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manasb-uoe/webpack5-issue-repro/issues"
+  },
+  "homepage": "https://github.com/manasb-uoe/webpack5-issue-repro#readme"
+}
